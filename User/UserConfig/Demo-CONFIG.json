@@ -1,0 +1,34 @@
+{
+  "RemoveNSLog": true,
+  "ModifyResourceMd5": true,
+  "CheckSensitiveWord": true,
+  "IgnoreOCString": true,
+
+  "ExcludeFolderList": [],
+  "IgnoreClassList": ["AppDelegate", "ViewController", "SceneDelegate"],
+  "IgnoreFolderList": [],
+  "IgnorePropertyOfClassList": [],
+  "IgnoreModelFolderList": [],
+
+  "InjectPercent": 0.5,
+  "InjectMark": "//mark",
+  "InjectMinCount": 2,
+  "InjectMaxCount": 3,
+  "OpenInjectMethod": false,
+
+  "SymbolMaxCount": 5,
+  "RemoveWordList": [],
+  "ClassNamePrefixMap": {},
+  "PropertyPrefixMap": {},
+  "MethodPrefixMap": {},
+  "EnumPrefixMap": {},
+
+  "SplitOCStringPercent": 0,
+
+  "ModifyProjectTime": true,
+  "ProjectStartDate": "20200301",
+  "ProjectEndDate": "20200711",
+
+  "SDKHeaderList": [],
+  "OldMode": false
+}
